@@ -16,7 +16,7 @@ To use it in your Maven build add:
   </repositories>
 ```
 
-and the dependency:
+and the dependency are:
 
 ```xml
 	<dependency>
