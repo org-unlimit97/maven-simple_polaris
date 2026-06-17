@@ -65,3 +65,6 @@ SECRET_KEY = "super-secret-password"
 # ❌ 6. Debug mode 활성화 (High)
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+
